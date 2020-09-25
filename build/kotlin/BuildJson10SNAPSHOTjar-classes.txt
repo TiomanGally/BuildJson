@@ -1,0 +1,1 @@
+/Users/NB19804tga/Documents/dev/BuildJson/build/classes/kotlin/main/de/gally/BuildJson.class:/Users/NB19804tga/Documents/dev/BuildJson/build/classes/kotlin/main/de/gally/BuildJsonKt.class
